@@ -1,0 +1,5 @@
+[0] Config.pm:304> INFO - This is Biber 2.14 (beta)
+[0] Config.pm:307> INFO - Logfile is 'bibliography/bibThesis.bib.blg'
+[61] biber:322> INFO - === lun apr  4, 2022, 11:46:47
+[153] Utils.pm:309> ERROR - Cannot find 'bibliography/bibThesis.bib.bcf'!
+[153] Biber.pm:132> INFO - ERRORS: 1

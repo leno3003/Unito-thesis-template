@@ -11,9 +11,13 @@
 
 %% DOCUMENT CLASS (alternative to book is 'report')
 % Print just right page or both sides (comment the other one)
-\documentclass[12pt,a4paper,openright,oneside]{book}	%%One sided
-%\documentclass[12pt,a4paper,openright,twoside]{book}	%%Double sided
+%\documentclass[12pt,a4paper,openright,oneside]{book}	%%One sided
+\documentclass[12pt,a4paper,openright,twoside]{book}	%%Double sided
 
+
+
+\usepackage[backend=biber]{biblatex}
+\addbibresource{bibliography/bibThesis.bib}
 
 %% SET MARGINS OF THE PAGES
 \usepackage{geometry}
@@ -134,9 +138,6 @@
 \clearemptydoublepage
 %bibliography
 \addcontentsline{toc}{chapter}{Bibliography}
-\bibliography{bibliography/bibThesis}
-\bibliographystyle{ieeetr}
-\clearemptydoublepage
-
+\printbibliography
 
 \end{document}

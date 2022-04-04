@@ -1,0 +1,200 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{AICI}{article}{}
+      \name{author}{2}{}{%
+        {{hash=36cfe2d59d07633b3d1b23eae6f5008c}{%
+           family={Anantrasirichai},
+           familyi={A\bibinitperiod},
+           given={Nantheera},
+           giveni={N\bibinitperiod}}}%
+        {{hash=5c984f085c58a64685dac1286190b8c5}{%
+           family={Bull},
+           familyi={B\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{adfb0619eadc4048419d72c9e3fbe1fb}
+      \strng{fullhash}{adfb0619eadc4048419d72c9e3fbe1fb}
+      \strng{bibnamehash}{adfb0619eadc4048419d72c9e3fbe1fb}
+      \strng{authorbibnamehash}{adfb0619eadc4048419d72c9e3fbe1fb}
+      \strng{authornamehash}{adfb0619eadc4048419d72c9e3fbe1fb}
+      \strng{authorfullhash}{adfb0619eadc4048419d72c9e3fbe1fb}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Artificial Intelligence Review}
+      \field{title}{Artificial intelligence in the creative industries: a review}
+      \field{year}{2021}
+      \field{pages}{1\bibrangedash 68}
+      \range{pages}{68}
+    \endentry
+    \entry{dfl}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=f1fde25c4704cca0ddf17db4fa63d3fb}{%
+           family={Perov},
+           familyi={P\bibinitperiod},
+           given={Ivan},
+           giveni={I\bibinitperiod}}}%
+        {{hash=afe47edf996e40f9b2e8dbb5e2f6b5e0}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Daiheng},
+           giveni={D\bibinitperiod}}}%
+        {{hash=f20173dc638db517d342e32f43f1676f}{%
+           family={Chervoniy},
+           familyi={C\bibinitperiod},
+           given={Nikolay},
+           giveni={N\bibinitperiod}}}%
+        {{hash=4bdd3bf3f25ac6250ac19a945688a6f1}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Kunlin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=bea73fa023e9f6f13e562154f4e072f3}{%
+           family={Marangonda},
+           familyi={M\bibinitperiod},
+           given={Sugasa},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e483bc6e90b0f6c09cbd2fd802bdf763}{%
+           family={Um{é}},
+           familyi={U\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+        {{hash=c4a70382e084fd99c31a72f3e48f7d89}{%
+           family={Dpfks},
+           familyi={D\bibinitperiod},
+           given={Mr},
+           giveni={M\bibinitperiod}}}%
+        {{hash=933f4afb36b997f11f6343a98a9ea270}{%
+           family={Facenheim},
+           familyi={F\bibinitperiod},
+           given={Carl\bibnamedelima Shift},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=b5110681953640daae2343ff18736a3a}{%
+           family={RP},
+           familyi={R\bibinitperiod},
+           given={Luis},
+           giveni={L\bibinitperiod}}}%
+        {{hash=4ef26d12d8d50ef9e76d43bf60ee869b}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{65dff15b1a615d0272f6ec6ab42b9692}
+      \strng{fullhash}{1b078f69bb3605d411279b8151dc09f5}
+      \strng{bibnamehash}{65dff15b1a615d0272f6ec6ab42b9692}
+      \strng{authorbibnamehash}{65dff15b1a615d0272f6ec6ab42b9692}
+      \strng{authornamehash}{65dff15b1a615d0272f6ec6ab42b9692}
+      \strng{authorfullhash}{1b078f69bb3605d411279b8151dc09f5}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2005.05535}
+      \field{title}{DeepFaceLab: Integrated, flexible and extensible face-swapping framework}
+      \field{year}{2020}
+    \endentry
+    \entry{DPG}{article}{}
+      \name{author}{5}{}{%
+        {{hash=35baa21c4b0fa39a5ea142a25f5b5f0c}{%
+           family={Sha},
+           familyi={S\bibinitperiod},
+           given={Tong},
+           giveni={T\bibinitperiod}}}%
+        {{hash=25bbf4047d900f3760c65b01ee899dba}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=3dbb96da69cc1819c46ae3516a61bdfc}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Tong},
+           giveni={T\bibinitperiod}}}%
+        {{hash=5756883fe146f8c0788104bc4fc41e77}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Zhoujun},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=de1c1ab4ad3b6904d54368d83000758c}{%
+           family={Mei},
+           familyi={M\bibinitperiod},
+           given={Tao},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{59f861879ac92fdeb297e40cdb27f183}
+      \strng{fullhash}{173997019165b3b229a056c694d7a3fb}
+      \strng{bibnamehash}{59f861879ac92fdeb297e40cdb27f183}
+      \strng{authorbibnamehash}{59f861879ac92fdeb297e40cdb27f183}
+      \strng{authornamehash}{59f861879ac92fdeb297e40cdb27f183}
+      \strng{authorfullhash}{173997019165b3b229a056c694d7a3fb}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2109.02081}
+      \field{title}{Deep Person Generation: A Survey from the Perspective of Face, Pose and Cloth Synthesis}
+      \field{year}{2021}
+    \endentry
+    \entry{UGAN}{article}{}
+      \name{author}{3}{}{%
+        {{hash=baf8b98f668f2b8fafc696efe5fdbaef}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Simranjeet},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f6f89a2b9d198e6038917e44d42a0ff9}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Rajneesh},
+           giveni={R\bibinitperiod}}}%
+        {{hash=64e8f041696dfed369345414491cfe33}{%
+           family={Smeaton},
+           familyi={S\bibinitperiod},
+           given={Alan\bibnamedelima F},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{d219e57dbf76cc0a6b122b9e900150c1}
+      \strng{fullhash}{d219e57dbf76cc0a6b122b9e900150c1}
+      \strng{bibnamehash}{d219e57dbf76cc0a6b122b9e900150c1}
+      \strng{authorbibnamehash}{d219e57dbf76cc0a6b122b9e900150c1}
+      \strng{authornamehash}{d219e57dbf76cc0a6b122b9e900150c1}
+      \strng{authorfullhash}{d219e57dbf76cc0a6b122b9e900150c1}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2011.05421}
+      \field{title}{Using GANs to synthesise minimum training data for deepfake generation}
+      \field{year}{2020}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
